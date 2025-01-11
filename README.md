@@ -20,7 +20,7 @@
 
 ![workflow.png](character/readme_images/workflow.png)
 
-##### Input Pose
+##### Input Canny
 
 ![input_canny.jpg](character/input_canny.jpg)
 
