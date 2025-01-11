@@ -23,7 +23,7 @@ class CharacterSelector:
 ```
 NOTE: The "perfect seed" is a seed that will generate the character consistently. This is useful for generating the same character with different poses. You can find the "perfect seed" by generating the character a few times with your model of choice (in our case, `animaginexl-3.1`) on another workflow or an SDXL runner online, and copying the seed from the "seed" field in the `character_selector_node.py` file.
 
-3. Load the workflow. You can use the [`input_canny.jpg`](input_canny.jpg) or [`input_pose.jpg`](input_pose.jpg) images as input for the sample character Mikaela from [Venture Anime](https://venture-anime.com/about).
+3. Load the workflow. You can use the [`input_canny.jpg`](input_canny.jpg) or [`input_pose.jpg`](input_pose.jpg) images as input for the sample character Mikaela from [Venture Anime](https://venture-anime.com/about#mikaela).
 
 4. After loading the workflow, you may need to re-select the models if you get an error. Simply click on the "Select" button and choose the models from the `models` folder that were downloaded in the first step.
 
